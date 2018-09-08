@@ -1,2 +1,2 @@
 This is demo file
- B
+ B from A
